@@ -1,5 +1,4 @@
 ## About us
----
 
 **bistoyek (21) Research and Innovation Center**
 
