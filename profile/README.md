@@ -18,7 +18,7 @@ bistoyek21 R.I.C. is a new tech startup founded by Kasra Fouladi on June 30, 202
 As a nascent organization, we value openness, collaboration, and continuous learning. Our mission is to contribute to the field of informatics while growing as a research-driven tech startup.
 
 **Connect with Us:**  
-- GitHub: [https://github.com/bistoyek-official](https://github.com/bistoyek-official)  
+- GitHub: [https://github.com/bistoyek21-ric](https://github.com/bistoyek21-ric)  
 - Telegram: [https://t.me/bistoyek21_ric](https://t.me/bistoyek21_ric)  
 - LinkedIn: [https://linkedin.com/company/bistoyek21_ric](https://linkedin.com/company/bistoyek21_ric)  
 - X: [https://x.com/bistoyek21_ric](https://x.com/bistoyek21_ric)
