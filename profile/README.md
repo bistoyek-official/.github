@@ -2,7 +2,7 @@
 
 **bistoyek (21) Research and Innovation Center**
 
-bistoyek (written in lower case and pronounced “بیست و یک” meaning Twenty-One) is a new tech startup founded by Kasra Fouladi on June 30, 2023. We are a young organization working primarily in the field of computer science with a focus on informatics.
+bistoyek21 R.I.C. is a new tech startup founded by Kasra Fouladi on June 30, 2023. We are a young organization working primarily in the field of computer science with a focus on informatics.
 
 **Our Activities:**
 
@@ -19,8 +19,8 @@ As a nascent organization, we value openness, collaboration, and continuous lear
 
 **Connect with Us:**  
 - GitHub: [https://github.com/bistoyek-official](https://github.com/bistoyek-official)  
-- Telegram: [https://t.me/bistoyek21ric](https://t.me/bistoyek21ric)  
-- LinkedIn: [https://linkedin.com/company/bistoyek-21](https://linkedin.com/company/bistoyek-21)  
-- X: [https://x.com/bistoyek21](https://x.com/bistoyek21)
+- Telegram: [https://t.me/bistoyek21_ric](https://t.me/bistoyek21_ric)  
+- LinkedIn: [https://linkedin.com/company/bistoyek21_ric](https://linkedin.com/company/bistoyek21_ric)  
+- X: [https://x.com/bistoyek21_ric](https://x.com/bistoyek21_ric)
 
 ---
